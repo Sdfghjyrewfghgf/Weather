@@ -1,0 +1,19 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Shows local weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=16.0.0 <17.0.0"
+  }
+}
