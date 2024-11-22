@@ -1,2 +1,2 @@
 $ node index.js  
-localhost:5000/weather/<latitude>/<longitude>
+http://localhost:5000/weather/<latitude>/<longitude>
