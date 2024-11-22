@@ -1,4 +1,4 @@
-1. Install npm packages  
+1. Install node modules  
 $ npm install  
 
 
